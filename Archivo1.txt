@@ -1,1 +1,3 @@
 Archivo inicial para el proyecto (repositorio) de git
+
+Este archivo es ejemplo de la clase 2 
