@@ -8,4 +8,4 @@ Clase 1. repositorio inicial de git: cómo usarlo
 
 ## Este archivo se ha modificado jje
 
-otra edición de este archivo. Se supone que alguien más está escribiendo
+otra edición de este archivo. Se supone que alguien más está trabajando
