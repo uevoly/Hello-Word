@@ -7,3 +7,5 @@ Clase 1. repositorio inicial de git: cómo usarlo
 3. Ecuaciones Diferenciales
 
 ## Este archivo se ha modificado jje
+
+otra edición de este archivo. Se supone que alguien más está escribiendo
